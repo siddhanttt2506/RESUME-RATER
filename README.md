@@ -43,11 +43,11 @@ git pull
 
 #### **Assignment Naming Format**:
 - Assignments should be named as:  
-  `firstname_rollno_pandas/numpy.ipynb`
+  `firstname_rollno_assignmenttopic.ipynb`
 
 #### **Folder Naming Format**:
 - Each folder should follow the format:  
-  `firstname_rollno_assignment0`
+  `firstname_rollno_assignment_assignmentnumber`
 
 ---
 
