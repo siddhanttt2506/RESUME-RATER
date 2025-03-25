@@ -8,6 +8,13 @@
 
 - The aim of this project is to build a resume parser.
 
+## REPORT
+
+## REPORT
+
+View the report [here](https://raw.github.com/siddhanttt2506/RESUME-RATER/blob/main/final_report.pdf)
+
+
 ## Project Timeline
 ---
 1. Week 0 - Basics of Python (Numpy, Pandas)
