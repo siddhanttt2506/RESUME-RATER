@@ -12,7 +12,7 @@
 
 ## REPORT
 
-View the report [here](https://raw.github.com/siddhanttt2506/RESUME-RATER/blob/main/final_report.pdf)
+View the report [here](https://raw.github.com/siddhanttt2506/RESUME-RATER/main/final_report.pdf)
 
 
 ## Project Timeline
